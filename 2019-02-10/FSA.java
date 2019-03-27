@@ -1,7 +1,4 @@
 // Tammy Chan
-// Theory of Computation
-// Project 1
-// Due: February 11th, 2019
 
 import java.io.File;
 import java.util.*;
